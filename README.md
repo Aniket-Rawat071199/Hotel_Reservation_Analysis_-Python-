@@ -28,6 +28,7 @@ The dataset was cleaned by handling missing values, removing duplicates, correct
 The methodology includes data cleaning, exploratory data analysis (EDA), data visualization, and statistical evaluation to examine booking and cancellation patterns.
 
 ***Visualisation*** :-
+
 ## ADR Trend
 
 ![ADR Trend](images/ADR_Trend.png)
