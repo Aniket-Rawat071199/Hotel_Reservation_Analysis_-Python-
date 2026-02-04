@@ -71,11 +71,9 @@ The findings provide insights into booking behavior and help suggest strategies 
 
 3- Use customer segmentation to identify high-cancellation segments and apply stricter or customized booking policies.
 
-***Author*** :-
-
 ## Author
 
 **Aniket Rawat**  
-📧 Email: your-email@example.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-💻 GitHub: https://github.com/yourusername  
+📧 Email: arvianshrwt1999@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/aniket-rawat-44a6b63aa
+💻 GitHub: https://github.com/Aniket-Rawat071199
